@@ -1,7 +1,7 @@
 # Manual Harmonization for Stroke Risk Prediction Cohorts
 
 
-## Data Manipulation Summary
+## Data Manipulation Summary (dbGaP)
 
 <img src="./manipulation_summary.png" width="600">
 
